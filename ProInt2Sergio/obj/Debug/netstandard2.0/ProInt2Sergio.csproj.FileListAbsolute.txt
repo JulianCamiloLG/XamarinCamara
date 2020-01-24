@@ -1,0 +1,15 @@
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\bin\Debug\netstandard2.0\ProInt2Sergio.deps.json
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\bin\Debug\netstandard2.0\ProInt2Sergio.dll
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ProInt2Sergio.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ProInt2Sergio.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ProInt2Sergio.AssemblyInfo.cs
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\Views\Contenido.xaml.g.cs
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\Views\Detalles.xaml.g.cs
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ProInt2Sergio.dll
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ref\ProInt2Sergio.dll
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\ProInt2Sergio.pdb
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\bin\Debug\netstandard2.0\ref\ProInt2Sergio.dll
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\bin\Debug\netstandard2.0\ProInt2Sergio.pdb
+C:\Users\Julian\source\repos\ProInt2Sergio\ProInt2Sergio\obj\Debug\netstandard2.0\XamlC.stamp
